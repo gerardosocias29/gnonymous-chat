@@ -24,6 +24,9 @@ For experimental only, post without user registration.
 
 > composer update && composer install
 
+Setup your .env file and create your database
+
 then run,
 
 > php artisan migrate
+> php artisan serve
