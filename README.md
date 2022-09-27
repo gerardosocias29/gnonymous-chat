@@ -2,6 +2,7 @@
 
 For experimental only, post without user registration.
 
+<img src="https://github.com/gerardosocias29/gnonymous-chat/blob/master/images/gnonymous-screenshot.png"/>
 <br>
 
 ### Features:
